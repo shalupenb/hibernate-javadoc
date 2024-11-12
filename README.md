@@ -1,6 +1,6 @@
 # Hibernate Javadoc
 
-![Hibernate Logo](https://upload.wikimedia.org/wikipedia/commons/3/33/Hibernate_logo_a.png)
+![Hibernate Logo](https://cdn.worldvectorlogo.com/logos/hibernate.svg)
 
 🚀 Добро пожаловать в проект **Hibernate Javadoc**! Этот сайт предоставляет удобный доступ к полной документации по [Hibernate](https://hibernate.org/) — одному из самых популярных _Java-фреймворков_ для работы с базами данных.
 
