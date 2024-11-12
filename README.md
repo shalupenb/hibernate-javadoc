@@ -1,6 +1,6 @@
 # Hibernate Javadoc
 
-![Hibernate Logo](https://seeklogo.com/images/H/hibernate-logo-8C95C75A24-seeklogo.com.png) ![Cat GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fshocked-cat-gifs&psig=AOvVaw2XdcgodwaONt76UM1spTo-&ust=1731506492265000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJD_g7761okDFQAAAAAdAAAAABAR "Примерная подсказка")
+![Hibernate Logo](https://seeklogo.com/images/H/hibernate-logo-8C95C75A24-seeklogo.com.png) ![Cat GIF](https://media.tenor.com/CNI1fSM1XSoAAAAM/shocked-surprised.gif "Cat GIF")
 
 🚀 Добро пожаловать в проект **Hibernate Javadoc**! Этот сайт предоставляет удобный доступ к полной документации по [Hibernate](https://hibernate.org/) — одному из самых популярных _Java-фреймворков_ для работы с базами данных.
 
